@@ -10,12 +10,14 @@ TEMPLATE = app
 
 SOURCES += \
     bigint.cpp\
+    boyermoore.cpp \
     form.cpp \
     main.cpp \
     mycode.cpp
 
 HEADERS += \
     bigint.hpp \
+    boyermoore.h \
     form.h \
     mycode.h
 
